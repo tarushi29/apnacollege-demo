@@ -1,3 +1,4 @@
 # apnacollege-demo
 hi my name is tarushi
-Author -Tarushi
+Author -Tarushi(apna college)
+
